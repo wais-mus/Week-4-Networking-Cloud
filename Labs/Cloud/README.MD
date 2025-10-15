@@ -1,23 +1,31 @@
-# 🧪 Cloud Lab 1 — Exploring Free Tiers
+# ☁️ Cloud Labs Overview
 
-## 1. AWS Free Tier
-- Sign-up completed: [Yes/No]
-- Services explored: EC2, S3, Lambda
-- Notes: 
+## 🎯 Goal
+The goal of the **Cloud** section is to gain a practical understanding of cloud computing concepts and hands-on experience deploying, managing, and automating infrastructure in **Microsoft Azure**.
 
-## 2. Azure Free Account
-- Sign-up completed: [Yes/No]
-- Services explored: Virtual Machines, Storage, Networking
-- Notes: 
+---
 
-## 3. Infrastructure as Code
-- IaC tool explored: Terraform / AWS CloudFormation / ARM templates
-- Notes on purpose: Automates creation and management of resources
+## 📘 Learning Objectives
+By completing these labs, I aim to:
+- Understand the fundamentals of **cloud infrastructure** (networks, subnets, VMs, storage).
+- Learn how to create and manage **Azure resources** through both the **Azure Portal** and **Terraform**.
+- Practice **Infrastructure as Code (IaC)** to automate deployments.
+- Build a foundation for future topics like **network security**, **scaling**, and **cloud automation**.
 
+---
 
+## 🧩 Labs Included
+- **Azure Networking Lab** — Creating VNets, subnets, and understanding IP addressing.
+- **Terraform Lab** — Automating Azure resource deployment using Terraform.
 
-#### Azure Free Account
-- Resource Group: LabRG, Region: West Europe
-- Virtual Machine: LabVM, Ubuntu 22.04 LTS, B1s, Public IP: 172.210.217.198
-- Networking: Default VNet/Subnet, NSG with default rules
-- Notes: VM successfully deployed using the portal; free tier eligible
+---
+
+## 🚀 Skills Gained
+- Working knowledge of Azure Resource Manager (ARM)
+- Understanding of virtual networks and subnets
+- Using the Azure CLI and Terraform commands
+- Deploying and managing infrastructure programmatically
+
+---
+
+*This section is part of my ongoing journey to master cloud computing and infrastructure automation.*
